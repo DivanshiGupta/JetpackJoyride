@@ -15,6 +15,15 @@ This is an amazing implementation of a subset of the Jetpack Joyride game. This 
 7.You can become a dragon too by taking Special Dragon Powerup.                                                                
 8.Kill the final Boss-Enemy to win the game.
 
+
 ![alt text](https://github.com/DivanshiGupta/JetpackJoyride/blob/master/IMG_20200421_165822.jpg)
 
+
 ![alt text](https://github.com/DivanshiGupta/JetpackJoyride/blob/master/IMG_20200421_165856.jpg)
+
+
+# Assignment related stuff
+1. Polymorphism - both player and dragon have the fire_laser but it behaves differently in both of them, however, it is fired in the same way.
+2. Inheritance - both player and bossenemey are inherited from same parent class character
+3. Encapsulation - all variables are protected and they have getters and setters.
+4. Abstraction - functions like check_collision and fire_laser hide underlying implementation and can be used in whatever way since it always works the way you want it to.
