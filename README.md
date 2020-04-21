@@ -14,3 +14,7 @@ This is an amazing implementation of a subset of the Jetpack Joyride game. This 
 6.Grab the Speed-Boost Powerup by jumping on it.                                                                               
 7.You can become a dragon too by taking Special Dragon Powerup.                                                                
 8.Kill the final Boss-Enemy to win the game.
+
+![alt text](https://github.com/DivanshiGupta/JetpackJoyride/blob/master/IMG_20200421_165822.jpg)
+
+![alt text](https://github.com/DivanshiGupta/JetpackJoyride/blob/master/IMG_20200421_165856.jpg)
